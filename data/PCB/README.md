@@ -18,7 +18,7 @@ concentration (in ppm).
 
 
 
-Bache, C. A. and Serum, J. W. and Youngs, W. D. and Lisk, D. J.
+Bache, C. A., Serum, J. W., Youngs, W. D., and Lisk, D. J.
 Polychlorinated biphenyl residues: Accumulation in Cayuga Lake trout with age. *Science* 177(4055):1191-1192, 1972
 
 Bates, D. M. and Watts, D. G. *Nonlinear Regression Analysis and Its Applications*, vol. 2. Wiley New York, 1988
