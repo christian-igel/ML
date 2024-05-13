@@ -17,6 +17,7 @@ second is the corresponding PCB
 concentration (in ppm).
 
 
+## References
 
 Bache, C. A., Serum, J. W., Youngs, W. D., and Lisk, D. J.
 Polychlorinated biphenyl residues: Accumulation in Cayuga Lake trout with age. *Science* 177(4055):1191-1192, 1972
