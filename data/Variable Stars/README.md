@@ -4,7 +4,8 @@
 
 A variable star changes its intensity, as observed by a telescope, over time. This can be caused extrinsically, for example by other objects temporarily occluding it, but also intrinsically, when the star changes its physical properties over time. Figure 1 shows an example. The graph of the varying intensity as a function of time is called the light curve. Variable stars can be further divided into many classes depending on other physical properties. The task we are trying to solve is to predict the class of a variable star by its light curve. To achieve this, we train a classifier in a supervised setting using labeled data from the *All Sky Automated Survey Catalog of Variable Stars* (ACVS) [Pojmanski, 2000].
 
-The data is based on the study by Richards et al. [2012]. We have a training and a test set, in the file VSTrain.dt and VSTest.dt, respectively, with 771 labeled samples each. Each sample encodes the astronomical properties of a variable star in a 61-dimensional feature vector. The features are listed below, for a detailed description of their meaning we refer to Dubath et al. [2011] and Richards et al. [2011]. 
+The data is based on the study by Richards et al. [2012]. We have a training and a test set, in the file `train.dt` and `test.dt`, respectively, with 771 labeled samples each. Each sample encodes the astronomical properties of a variable star in a 61-dimensional feature vector. The features and classes are listed below, for a detailed description of their meaning we refer to Dubath et al. [2011] and Richards et al. [2011]. 
+The data sets `X_train_binary.dt`, `X_test_binary.dt`, `y_train_binary.dt` and `y_test_binary.dt` reduce the data to a binary classification problem.
 
 The labels indicate the class a variable star has been assigned to. In total there are 25 different classes.
 
