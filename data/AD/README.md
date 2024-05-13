@@ -7,7 +7,7 @@ Alzheimer's disease (AD) is a severe neurodegenerative disease. The vast majorit
 
 A system developed by DIKU and the DIKU spin-off company Biomediq can separate cognitively normal, dementia, and pre-dementia patients with high accuracy when incorporating MRI data, as demonstrated by winning   the MICCAI CADDementia Grand Challenge in 2014 (Sørensen et al., 2016, 2017).
 
-The data in this repository are subsets of the data used by Sørensen et al. and are preprocessed in a similar way. **The system developed by Sørensen et al.  distinguished between three classes: healthy, mildly cognitively impaired, and AD. The data contains only examples for healthy and AD.**
+The data in this repository are subsets of the data used by Sørensen et al. and are preprocessed in a similar way. *The system developed by Sørensen et al. distinguished between three classes: healthy, mildly cognitively impaired, and AD. However, the data sets contain only examples for healthy and AD.*
 
 
 
